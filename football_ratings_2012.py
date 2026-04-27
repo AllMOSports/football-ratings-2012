@@ -21,7 +21,7 @@ CLASSIFICATIONS_PATH  = "classifications.json"
 SCHOOLS_CSV           = "mshsaa_schools.csv"
 ITERATIONS            = 1000
 LEARNING_RATE         = 0.1
-COMPETITIVE_THRESHOLD = 35
+COMPETITIVE_THRESHOLD = 45
  
 HEADERS = {
     "User-Agent": (
