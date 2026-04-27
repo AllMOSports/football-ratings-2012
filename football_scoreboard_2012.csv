@@ -18,7 +18,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-24,Lutheran North,27,Clayton,46
 2012-08-24,Warsaw,7,Clinton,35
 2012-08-24,Winfield,45,Clopton with Elsberry,14
-2012-08-24,Skyline,40,Cole Camp with Green Ridge,0
+2012-08-24,Skyline,40,Cole Camp,0
+2012-08-24,Pacific,13,DeSoto with Kingston,26
 2012-08-24,Miller Career Academy,34,Eldon,22
 2012-08-24,Buffalo,14,Fair Grove,34
 2012-08-24,Festus,16,Farmington,13
@@ -30,6 +31,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-24,Camdenton,12,Hillcrest,18
 2012-08-24,Francis Howell,18,Holt,14
 2012-08-24,Pierce City,54,Jasper,22
+2012-08-24,John F. Kennedy,27,Jefferson (Festus),20
 2012-08-24,McCluer North,6,Jefferson City,39
 2012-08-24,Glendale,7,Joplin,50
 2012-08-24,Lathrop,41,King City with Pattonsburg,0
@@ -40,6 +42,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-24,Maryville,40,Lawson,0
 2012-08-24,Raytown,14,Lee's Summit,45
 2012-08-24,Hickman,40,Lee's Summit North,20
+2012-08-24,Diamond,8,Liberal with Bronaugh,6
 2012-08-24,Winnetonka,18,Liberty,27
 2012-08-24,Parkway South,30,Lindbergh,19
 2012-08-24,Principia,21,Lutheran St. Charles,27
@@ -76,17 +79,19 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-24,Willow Springs,14,Reeds Spring,20
 2012-08-24,Central (Springfield),14,Republic,49
 2012-08-24,Archie,46,Rich Hill with Hume,24
-2012-08-24,De Smet Jesuit,7,Rock Bridge with Columbia Independent,20
+2012-08-24,De Smet Jesuit,7,Rock Bridge,20
 2012-08-24,Chaminade College Preparatory,13,Rockwood Summit,45
 2012-08-24,Lebanon,28,Rolla,12
 2012-08-24,Liberty North,42,Ruskin,13
 2012-08-24,Scotland County,6,Salisbury,39
 2012-08-24,Slater,12,Santa Fe,34
-2012-08-24,McAuley Catholic with New Heights Christian,34,Sarcoxie,46
+2012-08-24,McAuley Catholic,34,Sarcoxie,46
 2012-08-24,Herculaneum,6,Scott City,9
 2012-08-24,Fox,32,Seckman,13
 2012-08-24,Carthage,61,Seneca,47
 2012-08-24,Pleasant Hope,25,Sherwood,39
+2012-08-24,Parkway North,6,SLUH,7
+2012-08-24,Central (Kansas City),34,Southwest Early College,12
 2012-08-24,St. Mary's South Side,35,St. Charles,7
 2012-08-24,Odessa,36,St. Pius X (Kansas City),21
 2012-08-24,Dexter,14,Ste. Genevieve,47
@@ -94,6 +99,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-24,Hollister,0,Strafford,61
 2012-08-24,Wright City,13,Trinity Catholic,24
 2012-08-24,Ft. Zumwalt South,21,Troy Buchanan,18
+2012-08-24,Van-Far with Community,14,Veritas Christian Academy,43
 2012-08-24,Knob Noster,39,Versailles,22
 2012-08-24,St. Dominic,41,Warrenton,20
 2012-08-24,West Plains,21,Waynesville,26
@@ -102,12 +108,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-24,Sweet Springs with Malta Bend,0,Windsor,45
 2012-08-25,Vashon,48,Cleveland NJROTC,6
 2012-08-25,Carnahan,38,East (Kansas City),46
+2012-08-25,Valle Catholic,61,Father Tolton with Calvary Lutheran,0
 2012-08-25,Staley,0,Lee's Summit West,23
 2012-08-25,Lift for Life Academy Charter,8,McCluer South-Berkeley,52
 2012-08-25,Maplewood-Richmond Hts.,35,MICDS,19
 2012-08-25,University City,42,Normandy Collaborative,19
 2012-08-25,Benton,13,Ozark,69
 2012-08-25,Soldan International Studies,40,Roosevelt,0
+2012-08-25,Jennings,28,Transportation and Law with Beaumont,22
 2012-08-30,Stockton,0,Ash Grove,42
 2012-08-30,Carl Junction,28,Carthage,41
 2012-08-30,Mountain Grove,66,Hollister,20
@@ -119,7 +127,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-30,Confluence Prep Academy Charter,0,Salem,48
 2012-08-30,Houston,20,St. James,25
 2012-08-30,Plattsburg,56,St. Mary's (Independence),0
-2012-08-30,Cole Camp with Green Ridge,19,Warsaw,13
+2012-08-30,Cole Camp,19,Warsaw,13
 2012-08-30,Central (Springfield),37,Willow Springs,35
 2012-08-31,Nixa,19,Belton,0
 2012-08-31,East (Kansas City),0,Bishop LeBlond,43
@@ -151,7 +159,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-31,Webster Groves,7,Francis Howell,31
 2012-08-31,Ft. Zumwalt South,21,Francis Howell Central,14
 2012-08-31,Francis Howell North,20,Ft. Zumwalt East,42
-2012-08-31,Rock Bridge with Columbia Independent,27,Ft. Zumwalt West,9
+2012-08-31,Rock Bridge,27,Ft. Zumwalt West,9
 2012-08-31,Versailles,19,Fulton,7
 2012-08-31,Penney,41,Gallatin,6
 2012-08-31,Vashon,30,Gateway,41
@@ -172,16 +180,18 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-31,Priory,51,Lutheran North,7
 2012-08-31,Bishop DuBourg,0,Lutheran St. Charles,30
 2012-08-31,Hazelwood West,6,Marquette,19
-2012-08-31,Jasper,6,McAuley Catholic with New Heights Christian,42
+2012-08-31,Jasper,6,McAuley Catholic,42
 2012-08-31,Jennings,0,McCluer,52
 2012-08-31,Cassville,45,McDonald County,0
 2012-08-31,Ft. Zumwalt North,14,Mehlville,8
 2012-08-31,Maysville,24,Mid-Buchanan,6
 2012-08-31,Archie,0,Midway,48
+2012-08-31,Liberal with Bronaugh,0,Miller,46
 2012-08-31,Osage,12,Moberly,20
 2012-08-31,Clopton with Elsberry,12,Montgomery County,42
 2012-08-31,Willard,21,Nevada,28
 2012-08-31,Oak Park,10,North Kansas City,52
+2012-08-31,Southwest Early College,0,Odessa,49
 2012-08-31,Lincoln College Prep,0,O'Hara,35
 2012-08-31,Wright City,0,Orchard Farm,36
 2012-08-31,Concordia,52,Orrick,6
@@ -206,6 +216,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-31,Helias Catholic,35,Smith-Cotton,6
 2012-08-31,Center,6,Smithville,7
 2012-08-31,Crystal City,10,South Callaway,42
+2012-08-31,Father Tolton with Calvary Lutheran,0,Southern Boone,61
 2012-08-31,Veritas Christian Academy,34,St. Charles,0
 2012-08-31,Cardinal Ritter,20,St. Dominic,45
 2012-08-31,Union,12,St. Francis Borgia,56
@@ -215,6 +226,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-08-31,North Callaway,20,Tipton,40
 2012-08-31,Liberty North,12,Truman,6
 2012-08-31,Ste. Genevieve,33,Valle Catholic,14
+2012-08-31,Missouri Military Academy,6,Van-Far with Community,46
 2012-08-31,Jackson,43,Vianney,14
 2012-08-31,Pleasant Hill,34,Warrensburg,7
 2012-08-31,Troy Buchanan,35,Warrenton,19
@@ -231,6 +243,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-01,Liberty North,12,Truman,6
 2012-09-02,Kirkwood,32,Hazelwood East,22
 2012-09-02,McCluer South-Berkeley,12,University City,24
+2012-09-03,Transportation and Law with Beaumont,34,Herculaneum,14
 2012-09-03,Lift for Life Academy Charter,12,Perryville,13
 2012-09-03,Northeast (Kansas City),47,Wentworth Military Academy,12
 2012-09-04,Southeast,0,Central (Kansas City),30
@@ -266,6 +279,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-07,Francis Howell North,6,Ft. Zumwalt South,42
 2012-09-07,West Plains,6,Glendale,14
 2012-09-07,Boonville,12,Hannibal,41
+2012-09-07,Jefferson (Festus),26,Herculaneum,32
 2012-09-07,Clark County,41,Highland,9
 2012-09-07,Clinton,15,Holden,41
 2012-09-07,Buffalo,20,Hollister,14
@@ -278,7 +292,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-07,Plattsburg,14,Lawson,36
 2012-09-07,Liberty,52,Lee's Summit North,9
 2012-09-07,Central (St. Joseph),14,Lee's Summit West,42
+2012-09-07,Pierce City,42,Liberal with Bronaugh,0
 2012-09-07,Fort Osage,38,Liberty North,17
+2012-09-07,Southwest Early College,6,Lincoln College Prep,62
 2012-09-07,Bowling Green,30,Louisiana,20
 2012-09-07,Ste. Genevieve,22,Maplewood-Richmond Hts.,30
 2012-09-07,Mexico,15,Marshall,35
@@ -318,6 +334,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-07,Holt,10,Timberland,0
 2012-09-07,Windsor,0,Tipton,53
 2012-09-07,Sullivan,42,Union,0
+2012-09-07,Principia,40,Van-Far with Community,18
 2012-09-07,John F. Kennedy,0,Veritas Christian Academy,26
 2012-09-07,Warsaw,44,Versailles,43
 2012-09-07,Warrenton,34,Washington,35
@@ -328,8 +345,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-08,St. Dominic,48,Bishop DuBourg,0
 2012-09-08,Willow Springs,34,Cabool,20
 2012-09-08,Trinity Catholic,21,Cardinal Ritter,52
+2012-09-08,SLUH,7,Christian Brothers College,51
 2012-09-08,Carnahan,20,Cleveland NJROTC,8
 2012-09-08,Ash Grove,36,Diamond,14
+2012-09-08,Westran,48,Father Tolton with Calvary Lutheran,0
 2012-09-08,Pattonville,0,Hazelwood East,40
 2012-09-08,Farmington,15,Jackson,34
 2012-09-08,Marquette,7,Lafayette (Wildwood),46
@@ -345,11 +364,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-08,McCluer,34,Riverview Gardens,24
 2012-09-08,Vashon,12,Roosevelt,6
 2012-09-08,Lutheran St. Charles,7,St. Mary's South Side,37
+2012-09-08,Soldan International Studies,42,Transportation and Law with Beaumont,0
 2012-09-08,St. Vincent,7,Valle Catholic,36
 2012-09-08,University City,14,Webster Groves,42
 2012-09-08,Neosho,13,Willard,26
 2012-09-10,Clayton,39,Affton,14
-2012-09-10,McAuley Catholic with New Heights Christian,12,Miller,34
+2012-09-10,McAuley Catholic,12,Miller,34
 2012-09-10,Owensville,14,Salem,56
 2012-09-13,Lee's Summit,30,Liberty,53
 2012-09-14,Rich Hill with Hume,0,Adrian,41
@@ -372,7 +392,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-14,Valle Catholic,55,Crystal City,0
 2012-09-14,Windsor (Imperial),21,Cuba,26
 2012-09-14,Clinton,28,El Dorado Springs,8
-2012-09-14,Cole Camp with Green Ridge,16,Fayette,0
+2012-09-14,Cole Camp,16,Fayette,0
 2012-09-14,Oak Park,0,Fort Osage,58
 2012-09-14,Mehlville,3,Fox,41
 2012-09-14,Francis Howell,45,Francis Howell North,7
@@ -390,6 +410,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-14,Palmyra,23,Highland,6
 2012-09-14,Washington,27,Holt,31
 2012-09-14,Poplar Bluff,14,Jackson,41
+2012-09-14,St. Pius X (Festus),21,Jefferson (Festus),49
 2012-09-14,Hazelwood East,32,Jefferson City,41
 2012-09-14,Lutheran St. Charles,14,John F. Kennedy,37
 2012-09-14,Liberty North,35,Kearney,39
@@ -405,6 +426,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-14,Louisiana,28,Mark Twain,50
 2012-09-14,Parkway South,13,Marquette,0
 2012-09-14,Albany,6,Maysville,46
+2012-09-14,Liberal with Bronaugh,6,McAuley Catholic,54
 2012-09-14,Penney,49,Mid-Buchanan,14
 2012-09-14,Appleton City with Montrose,0,Midway,39
 2012-09-14,Orchard Farm,36,Montgomery County,0
@@ -425,7 +447,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-14,Sarcoxie,54,Pierce City,44
 2012-09-14,Nevada,35,Pleasant Hill,28
 2012-09-14,Marceline,41,Putnam County,0
-2012-09-14,Rock Bridge with Columbia Independent,14,Raymore-Peculiar,27
+2012-09-14,Rock Bridge,14,Raymore-Peculiar,27
 2012-09-14,Webb City,48,Republic,7
 2012-09-14,Joplin,29,Rolla,25
 2012-09-14,Lafayette (St. Joseph),14,Savannah,21
@@ -434,6 +456,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-14,Webster Groves,47,Seckman,14
 2012-09-14,Pleasant Hope,14,Skyline,57
 2012-09-14,Derrick Thomas Academy,24,Slater,43
+2012-09-14,Vianney,35,SLUH,69
 2012-09-14,Warrenton,35,St. Charles,18
 2012-09-14,Winfield,7,St. Charles West,42
 2012-09-14,St. Mary's South Side,7,St. Francis Borgia,34
@@ -441,8 +464,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-14,Herculaneum,19,St. Vincent,6
 2012-09-14,Potosi,33,Ste. Genevieve,49
 2012-09-14,Stockton,0,Strafford,63
+2012-09-14,Father Tolton with Calvary Lutheran,12,Tipton,55
 2012-09-14,St. Dominic,42,Trinity Catholic,23
 2012-09-14,Park Hill,24,Truman,14
+2012-09-14,Wright City,14,Van-Far with Community,28
 2012-09-14,Eldon,30,Warsaw,23
 2012-09-14,Sweet Springs with Malta Bend,18,Wentworth Military Academy,6
 2012-09-14,Hillcrest,20,West Plains,0
@@ -480,8 +505,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-21,Carl Junction,24,Cassville,34
 2012-09-21,St. Pius X (Kansas City),7,Center,47
 2012-09-21,Jackson,29,Central (Cape Girardeau),26
-2012-09-21,Sherwood,20,Cole Camp with Green Ridge,14
+2012-09-21,SLUH,42,Chaminade College Preparatory,14
+2012-09-21,Sherwood,20,Cole Camp,14
 2012-09-21,Santa Fe,25,Concordia,28
+2012-09-21,Jefferson (Festus),24,Crystal City,22
 2012-09-21,Pierce City,14,Diamond,36
 2012-09-21,Midway,42,Drexel with Miami (Amoret),21
 2012-09-21,Versailles,8,Eldon,41
@@ -506,6 +533,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-21,Richmond,6,Lafayette County,35
 2012-09-21,Butler,12,Lamar,63
 2012-09-21,Lee's Summit West,42,Lee's Summit North,0
+2012-09-21,Greenfield,26,Liberal with Bronaugh,0
 2012-09-21,Blue Springs,50,Liberty,22
 2012-09-21,Northwest (Cedar Hill),6,Lindbergh,26
 2012-09-21,Lutheran North,52,Lutheran South,62
@@ -556,6 +584,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-21,Troy Buchanan,41,Timberland,20
 2012-09-21,John F. Kennedy,32,Trinity Catholic,7
 2012-09-21,Central (St. Joseph),48,Truman,6
+2012-09-21,Clopton with Elsberry,20,Van-Far with Community,6
 2012-09-21,St. Charles West,41,Warrenton,21
 2012-09-21,Ft. Zumwalt South,21,Washington,67
 2012-09-21,Rolla,28,Waynesville,31
@@ -570,6 +599,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-22,McCluer North,21,Hazelwood West,0
 2012-09-22,Clayton,21,Jennings,14
 2012-09-22,Normandy Collaborative,14,Ladue Horton Watkins,42
+2012-09-22,Father Tolton with Calvary Lutheran,14,Marionville,50
 2012-09-22,Affton,0,McCluer South-Berkeley,36
 2012-09-22,John Burroughs,55,MICDS,7
 2012-09-22,Lincoln College Prep,6,Northeast (Kansas City),14
@@ -577,9 +607,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-22,Hazelwood East,41,Riverview Gardens,6
 2012-09-22,Miller Career Academy,33,Roosevelt,20
 2012-09-22,Carnahan,12,Soldan International Studies,48
+2012-09-22,Transportation and Law with Beaumont,35,Sumner,14
 2012-09-22,Priory,49,Westminster Christian Academy,14
 2012-09-27,Hillcrest,21,Kickapoo,26
 2012-09-27,Winnetonka,17,Liberty North,14
+2012-09-27,De Smet Jesuit,56,SLUH,7
 2012-09-28,Appleton City with Montrose,6,Adrian,35
 2012-09-28,Ladue Horton Watkins,52,Affton,13
 2012-09-28,Lee's Summit North,14,Blue Springs,47
@@ -612,6 +644,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-28,Lafayette County,28,Holden,21
 2012-09-28,Ft. Zumwalt North,12,Holt,19
 2012-09-28,Pleasant Hope,6,Jasper,27
+2012-09-28,Valle Catholic,48,Jefferson (Festus),14
 2012-09-28,Cardinal Ritter,32,John F. Kennedy,0
 2012-09-28,Boonville,42,Kirksville,26
 2012-09-28,Seckman,7,Kirkwood,59
@@ -621,13 +654,15 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-28,Blue Springs South,44,Lee's Summit,14
 2012-09-28,Park Hill South,6,Lee's Summit West,31
 2012-09-28,Lafayette (Wildwood),37,Lindbergh,0
+2012-09-28,Liberal with Bronaugh,19,Lockwood with Golden City,49
 2012-09-28,Priory,54,Lutheran South,14
 2012-09-28,Fredericktown,20,Maplewood-Richmond Hts.,27
 2012-09-28,Westran,13,Marceline,16
 2012-09-28,Eureka,34,Marquette,17
-2012-09-28,Diamond,36,McAuley Catholic with New Heights Christian,18
+2012-09-28,Diamond,36,McAuley Catholic,18
 2012-09-28,Warrenton,29,Mexico,49
 2012-09-28,Marshall,12,Moberly,41
+2012-09-28,Van-Far with Community,14,Montgomery County,42
 2012-09-28,Northeast (Kansas City),7,Nevada,54
 2012-09-28,Neosho,0,Nixa,41
 2012-09-28,Platte County,24,North Kansas City,18
@@ -649,7 +684,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-28,Scott City,13,Portageville,46
 2012-09-28,Grandview,36,Raytown South,48
 2012-09-28,Carrollton,0,Richmond,39
-2012-09-28,Helias Catholic,6,Rock Bridge with Columbia Independent,35
+2012-09-28,Helias Catholic,6,Rock Bridge,35
 2012-09-28,Liberty,0,Rockhurst,30
 2012-09-28,Camdenton,19,Rolla,6
 2012-09-28,Truman,35,Ruskin,15
@@ -677,8 +712,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-09-28,Parkway West,14,Webster Groves,48
 2012-09-28,Webb City,45,Willard,0
 2012-09-28,Salem,0,Willow Springs,32
-2012-09-28,Cole Camp with Green Ridge,50,Windsor,20
+2012-09-28,Cole Camp,50,Windsor,20
 2012-09-28,North Callaway,55,Wright City,21
+2012-09-29,Transportation and Law with Beaumont,27,Cleveland NJROTC,20
 2012-09-29,Francis Howell North,0,Ft. Zumwalt West,45
 2012-09-29,Roosevelt,32,Gateway,40
 2012-09-29,Soldan International Studies,14,Hogan Prep Academy Charter,38
@@ -714,7 +750,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-05,Savannah,41,Chillicothe,0
 2012-10-05,Ladue Horton Watkins,28,Clayton,21
 2012-10-05,Wright City,28,Clopton with Elsberry,22
-2012-10-05,Tipton,55,Cole Camp with Green Ridge,17
+2012-10-05,Tipton,55,Cole Camp,17
 2012-10-05,South Callaway,50,Cuba,6
 2012-10-05,Charleston,16,Dexter,8
 2012-10-05,Sherwood,25,Drexel with Miami (Amoret),27
@@ -722,6 +758,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-05,Pierce City,30,El Dorado Springs,50
 2012-10-05,Hallsville,0,Eldon,21
 2012-10-05,Lindbergh,0,Eureka,20
+2012-10-05,Missouri Military Academy,6,Father Tolton with Calvary Lutheran,31
 2012-10-05,Marceline,36,Fayette,6
 2012-10-05,Marquette,17,Fox,31
 2012-10-05,Timberland,7,Francis Howell,42
@@ -739,6 +776,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-05,Princeton with Mercer,27,King City with Pattonsburg,12
 2012-10-05,Knob Noster,12,Lafayette County,41
 2012-10-05,Lee's Summit,42,Lee's Summit North,35
+2012-10-05,Sarcoxie,41,Liberal with Bronaugh,20
 2012-10-05,Park Hill,0,Liberty,38
 2012-10-05,Concordia,51,Lone Jack,6
 2012-10-05,Monroe City,49,Louisiana,21
@@ -753,6 +791,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-05,Kirksville,22,Mexico,14
 2012-10-05,Jasper,7,Miller,48
 2012-10-05,Aurora,14,Mt. Vernon,20
+2012-10-05,Van-Far with Community,6,North Callaway,46
 2012-10-05,Winnetonka,35,North Kansas City,14
 2012-10-05,Ruskin,18,Oak Park,52
 2012-10-05,St. Charles,20,Orchard Farm,13
@@ -773,9 +812,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-05,Willard,14,Republic,40
 2012-10-05,Midway,42,Rich Hill with Hume,0
 2012-10-05,Holden,42,Richmond,28
-2012-10-05,Rockhurst,38,Rock Bridge with Columbia Independent,21
+2012-10-05,Rockhurst,38,Rock Bridge,21
 2012-10-05,Knox County,52,Scotland County,16
 2012-10-05,Hayti,22,Scott City,14
+2012-10-05,Lafayette (Wildwood),50,SLUH,20
 2012-10-05,Clinton,33,Smith-Cotton,12
 2012-10-05,Westminster Christian Academy,49,St. Francis Borgia,24
 2012-10-05,Sullivan,49,St. James,0
@@ -803,6 +843,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-06,Pattonville,7,Ritenour,33
 2012-10-06,Seckman,7,Rockwood Summit,49
 2012-10-06,Cleveland NJROTC,20,Sumner,14
+2012-10-06,Vashon,28,Transportation and Law with Beaumont,21
 2012-10-06,Parkway Central,42,University City,6
 2012-10-06,Windsor,40,Wentworth Military Academy,15
 2012-10-11,Northeast (Kansas City),33,East (Kansas City),32
@@ -841,6 +882,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-12,Caruthersville,13,Hayti,6
 2012-10-12,Pacific,14,Hermann,28
 2012-10-12,Carrollton,8,Holden,41
+2012-10-12,Liberal with Bronaugh,12,Jasper,28
+2012-10-12,Chaffee,41,Jefferson (Festus),39
 2012-10-12,Lebanon,20,Kickapoo,6
 2012-10-12,Polo,49,King City with Pattonsburg,12
 2012-10-12,Parkway South,0,Lafayette (Wildwood),21
@@ -869,11 +912,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-12,Kirkwood,28,Parkway Central,2
 2012-10-12,University City,38,Parkway West,35
 2012-10-12,Lincoln College Prep,6,Pembroke Hill,52
-2012-10-12,McAuley Catholic with New Heights Christian,42,Pierce City,41
+2012-10-12,McAuley Catholic,42,Pierce City,41
 2012-10-12,Braymer,14,Princeton with Mercer,54
 2012-10-12,Lee's Summit,13,Raytown South,38
 2012-10-12,Sacred Heart,39,Rich Hill with Hume,18
-2012-10-12,Liberty,21,Rock Bridge with Columbia Independent,28
+2012-10-12,Liberty,21,Rock Bridge,28
 2012-10-12,Jefferson City,6,Rockhurst,16
 2012-10-12,Hillcrest,34,Rolla,20
 2012-10-12,Lee's Summit West,50,Ruskin,6
@@ -885,7 +928,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-12,Veritas Christian Academy,57,Scott City,12
 2012-10-12,Parkway North,56,Seckman,7
 2012-10-12,Westran,74,Slater,14
+2012-10-12,Mehlville,14,SLUH,42
 2012-10-12,Center,42,Smith-Cotton,7
+2012-10-12,Father Tolton with Calvary Lutheran,14,South Callaway,55
 2012-10-12,Eldon,14,Southern Boone,12
 2012-10-12,Duchesne,42,St. Charles,14
 2012-10-12,Lift for Life Academy Charter,6,St. Mary's South Side,35
@@ -895,6 +940,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-12,Archie,21,Tipton,57
 2012-10-12,Ft. Zumwalt West,40,Troy Buchanan,19
 2012-10-12,Herculaneum,41,Valle Catholic,39
+2012-10-12,Bowling Green,21,Van-Far with Community,20
 2012-10-12,Orchard Farm,21,Warrenton,35
 2012-10-12,California,44,Warsaw,7
 2012-10-12,Ft. Zumwalt East,36,Washington,35
@@ -905,6 +951,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-12,Perryville,20,Windsor (Imperial),12
 2012-10-12,Wright City,13,Winfield,34
 2012-10-12,Platte County,28,Winnetonka,7
+2012-10-13,Transportation and Law with Beaumont,12,Carnahan,48
 2012-10-13,Ladue Horton Watkins,16,Ft. Zumwalt North,21
 2012-10-13,Ritenour,26,Hazelwood East,14
 2012-10-13,Sikeston,33,Jennings,14
@@ -922,6 +969,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-13,Bishop DuBourg,0,Westminster Christian Academy,48
 2012-10-18,Parkway South,0,Eureka,17
 2012-10-18,Grandview,16,Liberty North,43
+2012-10-18,Northeast (Kansas City),54,Southwest Early College,0
 2012-10-18,North Kansas City,8,Staley,45
 2012-10-18,De Smet Jesuit,55,Vashon,14
 2012-10-19,Fort Osage,49,Belton,7
@@ -939,7 +987,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-19,Charleston,50,Chaffee,8
 2012-10-19,Poplar Bluff,7,Chaminade College Preparatory,14
 2012-10-19,Cleveland NJROTC,18,Clayton,48
-2012-10-19,Rich Hill with Hume,8,Cole Camp with Green Ridge,22
+2012-10-19,Rich Hill with Hume,8,Cole Camp,22
 2012-10-19,Westminster Christian Academy,20,Duchesne,15
 2012-10-19,Penney,54,East Buchanan,14
 2012-10-19,Adrian,28,El Dorado Springs,18
@@ -947,7 +995,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-19,Central (Cape Girardeau),24,Festus,15
 2012-10-19,Warrenton,28,Ft. Zumwalt East,49
 2012-10-19,Camdenton,49,Glendale,0
-2012-10-19,McAuley Catholic with New Heights Christian,12,Greenfield,7
+2012-10-19,McAuley Catholic,12,Greenfield,7
 2012-10-19,Southern Boone,14,Hallsville,16
 2012-10-19,Perryville,12,Herculaneum,40
 2012-10-19,Union,35,Hermann,14
@@ -957,7 +1005,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-19,Ft. Zumwalt West,32,Holt,35
 2012-10-19,Francis Howell Central,26,Jackson,56
 2012-10-19,Diamond,22,Jasper,40
-2012-10-19,Rock Bridge with Columbia Independent,28,Jefferson City,18
+2012-10-19,St. Vincent,21,Jefferson (Festus),49
+2012-10-19,Rock Bridge,28,Jefferson City,18
 2012-10-19,Kickapoo,16,Joplin,20
 2012-10-19,Fulton,21,Kirksville,13
 2012-10-19,University City,7,Kirkwood,48
@@ -968,6 +1017,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-19,Parkview,21,Lebanon,31
 2012-10-19,Blue Springs,84,Lee's Summit,62
 2012-10-19,Truman,0,Lee's Summit West,61
+2012-10-19,Archie,34,Liberal with Bronaugh,6
 2012-10-19,Mehlville,14,Lindbergh,2
 2012-10-19,Pierce City,20,Lockwood with Golden City,48
 2012-10-19,Drexel with Miami (Amoret),54,Lone Jack,0
@@ -979,6 +1029,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-19,Marionville,15,North Callaway,42
 2012-10-19,Marquette,45,Northwest (Cedar Hill),10
 2012-10-19,Excelsior Springs,13,Oak Grove,49
+2012-10-19,SLUH,48,Oakville,31
 2012-10-19,Clopton with Elsberry,26,Orchard Farm,27
 2012-10-19,Warsaw,41,Osage,68
 2012-10-19,Monroe City,6,Palmyra,42
@@ -1009,6 +1060,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-19,St. Francis Borgia,14,Sullivan,52
 2012-10-19,Ft. Zumwalt North,7,Timberland,26
 2012-10-19,Confluence Prep Academy Charter,20,Trinity Catholic,49
+2012-10-19,Winfield,16,Van-Far with Community,20
 2012-10-19,Lift for Life Academy Charter,12,Veritas Christian Academy,38
 2012-10-19,California,43,Versailles,0
 2012-10-19,Ft. Zumwalt South,21,Vianney,40
@@ -1029,11 +1081,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-20,Pattonville,16,McCluer North,37
 2012-10-20,Cuba,22,Principia,28
 2012-10-20,Soldan International Studies,42,Sumner,12
+2012-10-20,Miller Career Academy,49,Transportation and Law with Beaumont,14
 2012-10-25,Hayti,20,St. Vincent,14
 2012-10-25,Crystal City,0,Valle Catholic,39
 2012-10-25,Chaffee,6,Thayer,49
+2012-10-25,Liberal with Bronaugh,6,Miller,42
 2012-10-25,Pierce City,13,Marionville,38
-2012-10-25,Jasper,20,McAuley Catholic with New Heights Christian,6
+2012-10-25,Jasper,20,McAuley Catholic,6
 2012-10-25,Greenfield,7,Lockwood with Golden City,18
 2012-10-25,Rich Hill with Hume,8,Skyline,53
 2012-10-25,Osceola,29,Adrian,35
@@ -1044,6 +1098,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-25,King City with Pattonsburg,0,South Harrison,50
 2012-10-25,Maysville,8,Polo,42
 2012-10-25,East Prairie,14,Caruthersville,48
+2012-10-25,Scott City,46,Jefferson (Festus),22
 2012-10-25,St. Pius X (Festus),6,Malden,37
 2012-10-25,Grandview (Hillsboro),0,Charleston,63
 2012-10-25,Pleasant Hope,6,Mountain Grove,56
@@ -1052,6 +1107,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-25,El Dorado Springs,34,Ash Grove,61
 2012-10-25,Diamond,7,Sarcoxie,35
 2012-10-25,Warsaw,20,Butler,55
+2012-10-25,Father Tolton with Calvary Lutheran,13,Blair Oaks,68
 2012-10-25,Montgomery County,46,Hallsville,0
 2012-10-25,Hermann,14,North Callaway,34
 2012-10-25,Southeast,0,Lafayette County,61
@@ -1077,6 +1133,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-25,Chillicothe,30,Macon,8
 2012-10-25,Southern Boone,6,Centralia,48
 2012-10-25,Fulton,28,Boonville,48
+2012-10-25,Southwest Early College,6,Oak Grove,71
 2012-10-25,Pembroke Hill,28,Clinton,0
 2012-10-25,O'Hara,7,Hogan Prep Academy Charter,42
 2012-10-25,Odessa,25,Center,35
@@ -1084,6 +1141,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-25,Central (Kansas City),26,Northeast (Kansas City),27
 2012-10-25,Perryville,7,Sikeston,71
 2012-10-25,Festus,6,Central (Cape Girardeau),31
+2012-10-25,DeSoto with Kingston,0,Hillsboro,41
 2012-10-25,Farmington,7,North County,21
 2012-10-25,Roosevelt,6,Lutheran South,60
 2012-10-25,Affton,20,Vashon,34
@@ -1118,7 +1176,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-26,Archie,0,Midway,27
 2012-10-26,Sweet Springs with Malta Bend,0,Tipton,53
 2012-10-26,Crest Ridge,28,Sacred Heart,35
-2012-10-26,Santa Fe,7,Cole Camp with Green Ridge,33
+2012-10-26,Santa Fe,7,Cole Camp,33
 2012-10-26,North Shelby,0,Westran,56
 2012-10-26,Paris,0,Knox County,60
 2012-10-26,Scotland County,6,South Shelby,53
@@ -1133,9 +1191,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-26,Cleveland NJROTC,0,Maplewood-Richmond Hts.,21
 2012-10-26,Lutheran North,41,Herculaneum,32
 2012-10-26,Principia,16,Brentwood,54
+2012-10-26,Transportation and Law with Beaumont,13,Carnahan,36
 2012-10-26,Cuba,0,Strafford,65
 2012-10-26,Houston,0,Liberty (Mountain View),69
 2012-10-26,Monroe City,14,Clark County,36
+2012-10-26,Bowling Green,42,Van-Far with Community,18
 2012-10-26,Mark Twain,12,Palmyra,36
 2012-10-26,Highland,30,Clopton with Elsberry,8
 2012-10-26,Lutheran St. Charles,20,South Callaway,34
@@ -1174,8 +1234,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-26,Francis Howell Central,21,Francis Howell,56
 2012-10-26,Ft. Zumwalt West,8,Jefferson City,29
 2012-10-26,Timberland,14,Hickman,34
-2012-10-26,Troy Buchanan,0,Rock Bridge with Columbia Independent,34
+2012-10-26,Troy Buchanan,0,Rock Bridge,34
 2012-10-26,Francis Howell North,0,Christian Brothers College,45
+2012-10-26,SLUH,14,Ritenour,35
 2012-10-26,Pattonville,0,De Smet Jesuit,41
 2012-10-26,Lee's Summit North,13,Blue Springs,61
 2012-10-26,Blue Springs South,16,Liberty,25
@@ -1189,7 +1250,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-10-31,Adrian,21,Skyline,48
 2012-10-31,Midway,38,Drexel with Miami (Amoret),20
 2012-10-31,Concordia,20,Tipton,56
-2012-10-31,Cole Camp with Green Ridge,30,Sacred Heart,35
+2012-10-31,Cole Camp,30,Sacred Heart,35
 2012-10-31,Knox County,24,Westran,48
 2012-10-31,Schuyler County,6,South Shelby,39
 2012-10-31,Princeton with Mercer,27,Milan,63
@@ -1265,7 +1326,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2012-11-02,Marquette,0,Lafayette (Wildwood),35
 2012-11-02,Parkway South,0,Eureka,49
 2012-11-02,Jefferson City,0,Francis Howell,7
-2012-11-02,Rock Bridge with Columbia Independent,7,Hickman,10
+2012-11-02,Rock Bridge,7,Hickman,10
 2012-11-02,Ritenour,35,Christian Brothers College,54
 2012-11-02,Liberty,21,Blue Springs,52
 2012-11-02,Raymore-Peculiar,7,Rockhurst,38
