@@ -67,10 +67,8 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
     """
     MANUAL_OVERRIDES = {
         "271": "Clopton with Elsberry",
-        "272": "Cole Camp with Green Ridge",
         "331": "King City with Pattonsburg",
         "126": "Lockwood with Golden City",
-        "568": "McAuley Catholic with New Heights Christian",
         "421": "Princeton with Mercer",
         "424": "Rich Hill with Hume",
         "431": "Salisbury",
@@ -91,8 +89,12 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
         "20": "Appleton City with Montrose",
         "275": "Drexel with Miami (Amoret)",
         "575": "Renaissance Academy Charter",
-        "578": "Rock Bridge with Columbia Independent",
         "172": "St. James",
+        "35": "DeSoto with Kingston",
+        "917": "Father Tolton with Calvary Lutheran",
+        "342": "Liberal with Bronaugh",
+        "776": "Transportation and Law with Beaumont",
+        "483": "Van-Far with Community",
     }
  
     df = pd.read_csv(schools_csv)
