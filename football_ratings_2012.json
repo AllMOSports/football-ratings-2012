@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 27, 2026 at 07:10 PM",
+  "last_updated": "April 30, 2026 at 04:59 PM",
   "league_average": 25.14,
   "teams": [
     {
@@ -928,17 +928,6 @@
     },
     {
       "ovr_rank": 85,
-      "school": "Maplewood-Richmond Hts.",
-      "classification": 2,
-      "district": 2,
-      "ovr_rating": 17.2,
-      "off_rating": 8.94,
-      "off_rank": 83,
-      "def_rating": 8.27,
-      "def_rank": 93
-    },
-    {
-      "ovr_rank": 86,
       "school": "Nevada",
       "classification": 4,
       "district": 7,
@@ -947,6 +936,17 @@
       "off_rank": 52,
       "def_rating": 2.96,
       "def_rank": 134
+    },
+    {
+      "ovr_rank": 86,
+      "school": "Maplewood-Richmond Hts.",
+      "classification": 2,
+      "district": 2,
+      "ovr_rating": 17.2,
+      "off_rating": 8.94,
+      "off_rank": 83,
+      "def_rating": 8.27,
+      "def_rank": 93
     },
     {
       "ovr_rank": 87,
@@ -1170,17 +1170,6 @@
     },
     {
       "ovr_rank": 107,
-      "school": "Mountain Grove",
-      "classification": 2,
-      "district": 3,
-      "ovr_rating": 11.01,
-      "off_rating": -4.58,
-      "off_rank": 193,
-      "def_rating": 15.59,
-      "def_rank": 52
-    },
-    {
-      "ovr_rank": 108,
       "school": "Sikeston",
       "classification": 4,
       "district": 1,
@@ -1189,6 +1178,17 @@
       "off_rank": 147,
       "def_rating": 10.22,
       "def_rank": 83
+    },
+    {
+      "ovr_rank": 108,
+      "school": "Mountain Grove",
+      "classification": 2,
+      "district": 3,
+      "ovr_rating": 11.01,
+      "off_rating": -4.58,
+      "off_rank": 193,
+      "def_rating": 15.59,
+      "def_rank": 52
     },
     {
       "ovr_rank": 109,
@@ -1203,17 +1203,6 @@
     },
     {
       "ovr_rank": 110,
-      "school": "Valle Catholic",
-      "classification": 1,
-      "district": 1,
-      "ovr_rating": 10.88,
-      "off_rating": 10.75,
-      "off_rank": 76,
-      "def_rating": 0.14,
-      "def_rank": 154
-    },
-    {
-      "ovr_rank": 111,
       "school": "St. Francis Borgia",
       "classification": 4,
       "district": 3,
@@ -1222,6 +1211,17 @@
       "off_rank": 92,
       "def_rating": 2.96,
       "def_rank": 133
+    },
+    {
+      "ovr_rank": 111,
+      "school": "Valle Catholic",
+      "classification": 1,
+      "district": 1,
+      "ovr_rating": 10.88,
+      "off_rating": 10.75,
+      "off_rank": 76,
+      "def_rating": 0.14,
+      "def_rank": 154
     },
     {
       "ovr_rank": 112,
@@ -2369,17 +2369,6 @@
     },
     {
       "ovr_rank": 216,
-      "school": "Francis Howell North",
-      "classification": 6,
-      "district": 2,
-      "ovr_rating": -17.58,
-      "off_rating": -11.47,
-      "off_rank": 236,
-      "def_rating": -6.1,
-      "def_rank": 199
-    },
-    {
-      "ovr_rank": 217,
       "school": "Northwest (Cedar Hill)",
       "classification": 6,
       "district": 1,
@@ -2388,6 +2377,17 @@
       "off_rank": 223,
       "def_rating": -8.87,
       "def_rank": 214
+    },
+    {
+      "ovr_rank": 217,
+      "school": "Francis Howell North",
+      "classification": 6,
+      "district": 2,
+      "ovr_rating": -17.58,
+      "off_rating": -11.47,
+      "off_rank": 236,
+      "def_rating": -6.1,
+      "def_rank": 199
     },
     {
       "ovr_rank": 218,
