@@ -11,9 +11,9 @@ import time
 # CONFIGURATION
 # ---------------------------------------------------------------------------
  
-SEASON_YEAR   = 2011
-SEASON_START  = date(2011, 8, 1)
-SEASON_END    = date(2011, 12, 15)
+SEASON_YEAR   = 2012
+SEASON_START  = date(2012, 8, 1)
+SEASON_END    = date(2012, 12, 15)
 BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=19&date={}"
 MAX_POINTS    = 100
 OUTPUT_PATH   = f"football_ratings_{SEASON_YEAR}.json"
